@@ -26,15 +26,18 @@ PeakPath supports several UN SDGs by promoting sustainable and responsible touri
 PeakPath App Features
 
 Splash Screen and Get Started Screen
+
 Splash Screen: Displays an animated logo for an engaging start.
 Get Started Screen: Welcomes users with an intuitive introduction.
 
 Personal Information Form
+
 Form Screen: Shown after the Get Started screen and before the Home Page.
 Form Fields: Name, Age, Contact Number, and Emergency Number.
 Post-Sign-In Display: User information displayed in one of the application's tabs.
 
 Home Page
+
 Categories:
 Most Viewed: Highlights popular mountains.
 Popular: Lists trending mountains.
@@ -43,6 +46,7 @@ Mount: Provides detailed information on mountains.
 Explore Mountain: Showcases images of various Philippine mountains.
 
 Safety Tips Tab
+
 Safety Tips: Provides essential safety tips with short descriptions:
 Start Slow and Stay Hydrated
 Know Your Route
@@ -52,10 +56,12 @@ Pack Your Gear
 Wear Proper Shoes
 
 Mountains Tab
+
 Mountain Listings: Offers detailed descriptions.
 Weather Forecast: Provides a weekly weather forecast.
 
 Activities Tab
+
 Activities: Showcases various activities for mountain trips:
 Trail Marking
 Map Reading
@@ -65,6 +71,7 @@ Wildlife Watching
 Plant Identification
 
 Dark Mode
+
 Dark Mode: Provides an alternative color scheme for low-light environments, enhancing comfort during night hikes.
 
 Technologies Used: 
