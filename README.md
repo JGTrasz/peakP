@@ -36,7 +36,7 @@ PeakPath supports several UN SDGs by promoting sustainable and responsible touri
 
 ## Significance of the Project 💡
 
-- **PeakPath** is more than just a hiking app; it is a platform that enhances the mountain hiking experience while contributing to broader social, environmental, and educational goals. The significance of PeakPath lies in its multifaceted impact:
+**PeakPath** is more than just a hiking app; it is a platform that enhances the mountain hiking experience while contributing to broader social, environmental, and educational goals. The significance of PeakPath lies in its multifaceted impact:
 
 - **Promoting Health and Wellness**: By encouraging physical activity and providing mental health benefits, PeakPath helps improve the overall well-being of its users.
 - **Safety and Preparedness**: By providing essential safety tips and weather forecasts, PeakPath ensures that hikers are well-prepared and informed, reducing the risk of accidents and enhancing the overall hiking experience.
