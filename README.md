@@ -101,9 +101,12 @@ SCREENSHOTS:
 ![Screenshot 2024-07-23 213644](https://github.com/user-attachments/assets/4c551c42-0f35-442f-846f-305537be5814)
 ![Screenshot 2024-07-23 213700](https://github.com/user-attachments/assets/3d6544ef-fc3f-426a-a7dc-0d7a12087584)
 ![Screenshot 2024-07-23 213725](https://github.com/user-attachments/assets/9de06e07-76a2-4553-b5cc-d3d65cd34189)
+![Screenshot 2024-07-23 215519](https://github.com/user-attachments/assets/1c1bdf97-4ffe-4138-b28e-e5dbf74796ce)
+![Screenshot 2024-07-23 215435](https://github.com/user-attachments/assets/e242838c-ea96-49b3-9e5f-e359e9ac6511)
 ![Screenshot 2024-07-23 214018](https://github.com/user-attachments/assets/d7d27ee5-180c-4000-bde4-aaae79bda9ad)
 
 Dark Mode: 
+
 ![Screenshot 2024-07-23 214141](https://github.com/user-attachments/assets/fb8c1d94-6027-485f-a247-5ff9609a0ed5)
 ![Screenshot 2024-07-23 214210](https://github.com/user-attachments/assets/222e12ee-54d9-4a90-a216-00d3e505237e)
 ![Screenshot 2024-07-23 214403](https://github.com/user-attachments/assets/7f4cf777-65d3-43b2-9c5b-7e1e37e33227)
