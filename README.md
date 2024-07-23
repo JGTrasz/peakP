@@ -71,7 +71,11 @@ Trasporto, John Gabriel S.
 Technologies Used: 
 
 - Dart: Programming language used for developing the application logic and functionality. 
-- Flutter: UI toolkit and framework for building natively compiled applications for mobile, web, and desktop from a single codebase. 
+- Flutter: UI toolkit and framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 
