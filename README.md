@@ -18,7 +18,7 @@ PeakPath supports several UN SDGs by promoting sustainable and responsible touri
 - **SDG 11: Sustainable Cities and Communities🏡**
   - Encourages responsible hiking practices and environmental conservation.
     
-![SDG 13](https://github.com/user-attachments/assets/5476078b-6f6a-45bb-829f-c35b43f8e460)
+![SDG 13](https://github.com/user-attachments/assets/08c83d6b-8b04-4883-981d-526ef5e37dff)
 
 - **SDG 13: Climate Action⛅**
   - Provides weather forecasts to help hikers adapt to changing climate conditions.
