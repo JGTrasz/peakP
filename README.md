@@ -94,4 +94,22 @@ CONTRIBUTORS
 
 SCREENSHOTS: 
 
+![Screenshot 2024-07-23 213343](https://github.com/user-attachments/assets/a47c4994-6736-4771-b671-81602e0b0f17)
+![Screenshot 2024-07-23 214001](https://github.com/user-attachments/assets/91c2af65-8840-4c48-8866-0574b1afd636)
+![Screenshot 2024-07-23 213502](https://github.com/user-attachments/assets/e10dd893-a2a6-4719-99f1-baeacddd13cd)
+![Screenshot 2024-07-23 213529](https://github.com/user-attachments/assets/4d864362-c576-4be8-b83d-1c6fadd2fa4f)
+![Screenshot 2024-07-23 213644](https://github.com/user-attachments/assets/4c551c42-0f35-442f-846f-305537be5814)
+![Screenshot 2024-07-23 213700](https://github.com/user-attachments/assets/3d6544ef-fc3f-426a-a7dc-0d7a12087584)
+![Screenshot 2024-07-23 213725](https://github.com/user-attachments/assets/9de06e07-76a2-4553-b5cc-d3d65cd34189)
+![Screenshot 2024-07-23 214018](https://github.com/user-attachments/assets/d7d27ee5-180c-4000-bde4-aaae79bda9ad)
+
+Dark Mode: 
+![Screenshot 2024-07-23 214141](https://github.com/user-attachments/assets/fb8c1d94-6027-485f-a247-5ff9609a0ed5)
+![Screenshot 2024-07-23 214210](https://github.com/user-attachments/assets/222e12ee-54d9-4a90-a216-00d3e505237e)
+![Screenshot 2024-07-23 214403](https://github.com/user-attachments/assets/7f4cf777-65d3-43b2-9c5b-7e1e37e33227)
+
+
+
+
+
 
