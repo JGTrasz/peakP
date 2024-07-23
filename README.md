@@ -8,16 +8,23 @@ PeakPath is a mobile application designed for mountain hiking enthusiasts, focus
 
 PeakPath supports several UN SDGs by promoting sustainable and responsible tourism, education, and environmental conservation:
 
+![SDG 3](https://github.com/user-attachments/assets/16a2395c-c9d7-46e9-90dd-02f198ccbac7)
 - **SDG 3: Good Health and Well-Being💪**
   - Promotes physical activity and mental well-being through hiking.
   - Provides essential safety tips to prevent accidents.
+    
+![SDG 11](https://github.com/user-attachments/assets/f31d760a-7af0-44f3-a7a5-55f00c12cc2d)
 
 - **SDG 11: Sustainable Cities and Communities🏡**
   - Encourages responsible hiking practices and environmental conservation.
+    
+![SDG 13](https://github.com/user-attachments/assets/5476078b-6f6a-45bb-829f-c35b43f8e460)
 
 - **SDG 13: Climate Action⛅**
   - Provides weather forecasts to help hikers adapt to changing climate conditions.
   - Educates users on preserving natural environments.
+
+![SDG 15](https://github.com/user-attachments/assets/74c709b2-9bd1-4bfd-a117-7ef3f18c0285)
 
 - **SDG 15: Life on Land🐾**
   - Includes information on local wildlife and plant species.
