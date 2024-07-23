@@ -65,7 +65,7 @@ Features
 Developers:
 Aldea, Eufemia R.
 Nambio, Khorene M.
-Onda, Nina Mariz C.
+Onda, Nina Mariz C. 
 Trasporto, John Gabriel S.
 
 Technologies Used: 
@@ -73,9 +73,15 @@ Technologies Used:
 - Dart: Programming language used for developing the application logic and functionality. 
 - Flutter: UI toolkit and framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+CONTRIBUTORS
+
+| Name         | Role            | SR-CODE       | Contact Number  |
+|:-------------|:---------------:|--------------:|-----------------|
+| Aldea, Eufemia R.| Developer   | 21-08161       | 09270779823    |
+| Nambio, Khorene M.| Developer  | 21-00379       | 0991693325    |
+| Onda, Nina Mariz C.| Developer| 21-02484       | 09992066334     |
+| Trasporto, John Gabriel S.| Developer| 21-05910 | 09171233625 |
+
+SCREENSHOTS: 
 
 
