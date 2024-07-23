@@ -6,7 +6,7 @@ PeakPath is a mobile application designed for mountain hiking enthusiasts, focus
 
 Sustainable Development Goals (SDGs) Addressed by PeakPath
 
-PeakPath supports several UN SDGs by promoting sustainable and responsible tourism, and environmental conservation:
+PeakPath supports several UN SDGs by promoting sustainable and responsible tourism, education, and environmental conservation:
 
 - SDG 3: Good Health and Well-Being
   - Promotes physical activity and mental well-being through hiking.
@@ -23,53 +23,58 @@ PeakPath supports several UN SDGs by promoting sustainable and responsible touri
   - Includes information on local wildlife and plant species.
   - Promotes sustainable practices like trail marking and responsible camping.
 
-Features
+PeakPath App Features
 
-1. Get Started Screen and Splash Screen
-   - Get Started Screen: Welcomes users with an intuitive introduction.
-   - Splash Screen: Displays an animated logo for an engaging start.
+Splash Screen and Get Started Screen
+Splash Screen: Displays an animated logo for an engaging start.
+Get Started Screen: Welcomes users with an intuitive introduction.
 
-2. Home Page
-   - Mountain Photos: Showcases images of various Philippine mountains.
-   - Categories:
-     - Most Viewed: Highlights popular mountains.
-     - Popular: Lists trending mountains.
-     - Nature: Features mountains known for their natural beauty.
-     - Mount: Provides detailed information on mountains.
+Personal Information Form
+Form Screen: Shown after the Get Started screen and before the Home Page.
+Form Fields: Name, Age, Contact Number, and Emergency Number.
+Post-Sign-In Display: User information displayed in one of the application's tabs.
 
-3. Safety Tips Tab
-   - Provides essential safety tips with short descriptions:
-     - Start Slow and Stay Hydrated
-     - Know Your Route
-     - Check Weather Conditions
-     - Carry First Aid Kit
-     - Pack Your Gear
-     - Wear Proper Shoes
+Home Page
+Categories:
+Most Viewed: Highlights popular mountains.
+Popular: Lists trending mountains.
+Nature: Features mountains known for their natural beauty.
+Mount: Provides detailed information on mountains.
+Explore Mountain: Showcases images of various Philippine mountains.
 
-4. Mountains Tab
-   - Mountain Listings: Offers detailed descriptions.
-   - Weather Forecast: Provides a weekly weather forecast.
+Safety Tips Tab
+Safety Tips: Provides essential safety tips with short descriptions:
+Start Slow and Stay Hydrated
+Know Your Route
+Check Weather Conditions
+Carry First Aid Kit
+Pack Your Gear
+Wear Proper Shoes
 
-5. Activities Tab
-   - Showcases various activities for mountain trips:
-     - Trail Marking
-     - Map Reading
-     - Rock Climbing
-     - Camping
-     - Wildlife Watching
-     - Plant Identification
-    
-6. Personal Info Tab
-- 
+Mountains Tab
+Mountain Listings: Offers detailed descriptions.
+Weather Forecast: Provides a weekly weather forecast.
 
-9. Dark Mode
-   - Provides an alternative color scheme for low-light environments, enhancing comfort during night hikes.
+Activities Tab
+Activities: Showcases various activities for mountain trips:
+Trail Marking
+Map Reading
+Rock Climbing
+Camping
+Wildlife Watching
+Plant Identification
+
+Dark Mode
+Dark Mode: Provides an alternative color scheme for low-light environments, enhancing comfort during night hikes.
 
 Technologies Used: 
 
 - Dart: Programming language used for developing the application logic and functionality. 
-- Flutter: UI toolkit and framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- Flutter: UI toolkit and framework for building natively compiled applications for mobile, web, and desktop from a single codebase. 
 - OpenWeather API: Service that provides current and forecasted weather information for locations worldwide. It delivers data such as temperature, humidity, and weather conditions.
+
+
+
 
 CONTRIBUTORS
 
