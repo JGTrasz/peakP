@@ -58,27 +58,25 @@ Features
      - Camping
      - Wildlife Watching
      - Plant Identification
+    
+6. Personal Info Tab
+- 
 
-6. Dark Mode
+9. Dark Mode
    - Provides an alternative color scheme for low-light environments, enhancing comfort during night hikes.
-
-Developers:
-Aldea, Eufemia R.
-Nambio, Khorene M.
-Onda, Nina Mariz C. 
-Trasporto, John Gabriel S.
 
 Technologies Used: 
 
 - Dart: Programming language used for developing the application logic and functionality. 
 - Flutter: UI toolkit and framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- OpenWeather API: Service that provides current and forecasted weather information for locations worldwide. It delivers data such as temperature, humidity, and weather conditions.
 
 CONTRIBUTORS
 
 | Name         | Role            | SR-CODE       | Contact Number  |
 |:-------------|:---------------:|--------------:|-----------------|
 | Aldea, Eufemia R.| Developer   | 21-08161       | 09270779823    |
-| Nambio, Khorene M.| Developer  | 21-00379       | 0991693325    |
+| Nambio, Khorene M.| Developer  | 21-00379       | 09991693325    |
 | Onda, Nina Mariz C.| Developer| 21-02484       | 09992066334     |
 | Trasporto, John Gabriel S.| Developer| 21-05910 | 09171233625 |
 
